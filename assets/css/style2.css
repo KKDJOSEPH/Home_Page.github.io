@@ -1,0 +1,201 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+}
+
+a {
+    color: #149ddd;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #37b3ed;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 section {
+    font-family: "Raleway", sans-serif;
+}
+
+.bg {
+    background: url(../images/dove.JPG)  no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1600px;
+    text-align: center;
+    line-height: 1600px;
+}
+.bg-blur {
+    float: left;
+    width: 100%;
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    z-index: 1;
+}
+
+.content {
+    position: fixed;
+    padding-left: 350px;
+    z-index: 100;
+}
+
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    z-index: 9997;
+    transition: all 0.5s;
+    padding: 0 15px;
+    background: #040b14;
+    overflow-y: auto;
+}
+
+#header .profile img {
+    margin: 15px auto;
+    display: block;
+    width: 120px;
+    border: 8px solid #2c2f3f;
+}
+
+#header .profile h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    font-family: "Poppins", sans-serif;
+}
+
+#header .profile h1 a, #header .profile h1 a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-menu {
+    padding: 30px 0 0 0;
+}
+
+.nav-menu * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-menu > ul > li {
+    position: relative;
+    white-space: nowrap;
+}
+
+.nav-menu a {
+    display: flex;
+    align-items: center;
+    color: #a8a9b4;
+    padding: 15px 15px;
+    margin-bottom: 8px;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+.nav-menu a i {
+    font-size: 24px;
+    padding-right: 8px;
+    color: #6f7180;
+}
+
+.nav-menu a:hover, .nav-menu .active, .nav-menu li:hover > a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
+    color: #149ddd;
+}
+
+.main-session {
+    margin: 0;
+    color: #ffffff;
+}
+
+.main-container {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.main-container > h2 {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-container > div {
+    display: flex;
+    justify-content: center;
+}
+
+.main-container p {
+    font-size: 1.5em;
+    margin-left: 50px;
+    margin-top: 0;
+    width: 1000px;
+}
+
+.main-container span {
+    font-weight: bold;
+    color: #f46f2d;
+}
+
+.project {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f46f2d;
+}
+.main-container ul {
+    font-size: 1.5em;
+}
+.main-container li {
+    line-height:150%;
+}
+
+.stage {
+    display:flex;
+    margin: 100px auto auto auto;
+    width:400px;
+    height:400px;
+    overflow:hidden;
+    z-index: 100;
+}
+
+#footer {
+    padding: 15px;
+    color: #f4f6fd;
+    font-size: 14px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    z-index: 9999;
+    background: #040b14;
+}
+
+.foot-info {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#footer .copyright {
+    text-align: center;
+}
+
+
