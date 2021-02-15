@@ -7,7 +7,11 @@
 
 # Instructions
 - Main files:
-  * index.html 
+  * index.html
+  * Education.html
+  * Project.html
+  * Gallery.html
+  
 - Main folder:
   * assests
     - css: Three css files for different pages
@@ -15,6 +19,12 @@
     - images: Images used for icon and background
     - js: main javascript file for the gallery
 
+- Instruction to build:
+  * Fork the repository
+  * Clone the repository
+  * Double click on index.html
+  * Enjoy
+  
 - References:
   * <a href=https://getbootstrap.com/docs/4.0/layout/overview/>Bootstrap Containers</a> 
   * <a href=https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/>MDN</a> 
