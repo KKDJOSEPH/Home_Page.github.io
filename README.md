@@ -3,7 +3,7 @@
 * Author: <a href="https://github.com/KKDJOSEPH">Haoyang Ding</a> 
 * <a href="https://johnguerra.co/classes/webDevelopment_spring_2021/">CS 5610 Web Development Northeastern University</a> 
 * Description: A self-designed homepage, using Html, Css, JavaScript, contact information included, ESlint used
-<img src="Yiman's-homepage.png" alt="Haoyang Ding's homepage"> 
+<img src="ScreenShot.png" alt="Haoyang Ding's homepage"> 
 
 # Instructions
 - Main files:
