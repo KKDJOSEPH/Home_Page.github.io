@@ -2,7 +2,7 @@
 * <a href="https://kkdjoseph.github.io/Home_Page.github.io/index.html"> Here to Enjoy </a>
 * Author: <a href="https://github.com/KKDJOSEPH">Haoyang Ding</a> 
 * <a href="https://johnguerra.co/classes/webDevelopment_spring_2021/">CS 5610 Web Development Northeastern University</a> 
-* Description: A self-designed homepage, using Html, Css, JavaScript, contact information included, Bootstrap, ESlint used, without a template
+* Description: A self-designed homepage, using Html, Css, JavaScript, contact information included, Bootstrap, ESlint used, without any Template
 <img src="ScreenShot.png" alt="Haoyang Ding's homepage"> 
 
 # Instructions
