@@ -8,8 +8,13 @@
 # Instructions
 - Main files:
   * index.html 
-  * style.css 
-  * main.js
+- Main folder:
+  * assests
+    - css: Three css files for different pages
+    - gallery: Photos taken in Irvine
+    - images: Images used for icon and background
+    - js: main javascript file for the gallery
+
 - References:
   * <a href=https://getbootstrap.com/docs/4.0/layout/overview/>Bootstrap Containers</a> 
   * <a href=https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/>MDN</a> 
