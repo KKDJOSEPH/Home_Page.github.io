@@ -11,10 +11,7 @@
   * style.css 
   * main.js
 - References:
-  * <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3</a> 
-  * <a href="https://getbootstrap.com/docs/4.0/components/card/">Bootstrap Cards</a> 
   * <a href=https://getbootstrap.com/docs/4.0/layout/overview/>Bootstrap Containers</a> 
-  * <a href=https://getbootstrap.com/docs/4.0/components/carousel//>Bootstrap Carousel</a> 
   * <a href=https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/>MDN</a> 
 <p align="center">
     <a href="https://github.com/1042970366/">
