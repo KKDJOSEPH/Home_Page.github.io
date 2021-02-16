@@ -1,5 +1,5 @@
 # Haoyang Ding's Homepage
-* <a href="https://kkdjoseph.github.io/Home_Page.github.io/index.html"> Here to Enjoy </a>               <a href="https://www.youtube.com/watch?v=TEDns9n2nkA&feature=youtu.be"> Demo Video </a>
+* <a href="https://kkdjoseph.github.io/Home_Page.github.io/index.html"> Here to Enjoy </a> </br> </br> <a href="https://www.youtube.com/watch?v=TEDns9n2nkA&feature=youtu.be"> Demo Video </a>
 * Author: <a href="https://github.com/KKDJOSEPH">Haoyang Ding</a> 
 * <a href="https://johnguerra.co/classes/webDevelopment_spring_2021/">CS 5610 Web Development Northeastern University</a> 
 * Description: A self-designed homepage, using Html, Css, JavaScript, contact information included, Bootstrap, ESlint used, without any Template
