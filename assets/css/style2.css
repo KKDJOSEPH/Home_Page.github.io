@@ -120,6 +120,7 @@ h1, h2, h3, h4, h5, h6 section {
 }
 
 .main-session {
+    <!-- this <section> container doesn't allow you to scroll, your content is being cut off, I'm not sure how you want to fix this -->
     margin: 0;
     color: #ffffff;
 }
