@@ -8,7 +8,7 @@
 - CS 5610 Project 1
 - Project Objective: Develop my home page. Practice things learned from class
 - <a href="https://johnguerra.co/classes/webDevelopment_spring_2021/"> Class Link </a>
-- <a href="https://johnguerra.co/"> Professor: John Alexis Guerra Gómez </a>
+- Professor: <a href="https://johnguerra.co/"> John Alexis Guerra Gómez </a>
 - <a href="https://kkdjoseph.github.io/Home_Page.github.io/index.html"> Here to Enjoy </a>
 - <a href="https://www.youtube.com/watch?v=TEDns9n2nkA&feature=youtu.be"> Demo Video </a>
 
@@ -39,7 +39,7 @@
   * Double click on index.html
   * Enjoy
   
-- References:
+# References:
   * <a href=https://getbootstrap.com/docs/4.0/layout/overview/>Bootstrap Containers</a> 
   * <a href=https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/>MDN</a> 
 <p align="center">
