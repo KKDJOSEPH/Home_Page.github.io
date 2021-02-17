@@ -4,7 +4,7 @@
 * Description: A self-designed homepage, using Html, Css, JavaScript, contact information included, Bootstrap, ESlint used, without any Template
 <img src="ScreenShot.png" alt="Haoyang Ding's homepage"> 
 
-# Project basic information
+# Basic Information
 - CS 5610 Project 1
 - Project Objective: Develop my home page. Practice things learned from class
 - <a href="https://johnguerra.co/classes/webDevelopment_spring_2021/"> Class Link </a>
